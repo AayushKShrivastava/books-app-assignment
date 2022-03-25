@@ -1,3 +1,14 @@
+# Books App Assignment Details
+My Contribution<br>
+First of all I added the Companies on the sidebar by adding the Companies Item on the src/menu-items/others.js file.<br>
+Then I created the 'companies' folder in the src/views folder. <br>
+The 'companies' folder contain three files:
+- companies-list-results.js file handling the CompaniesListToolbar components.
+- companies-list-results.js file handing the CompaniesListResults component.
+- index.js file fetching the data from the mockable api and rendering both the CompaniesListToolbar, and CompaniesListResults components.<br>
+
+At last I routed the Companies folder in the src/routes/MainRoutes.js file.
+
 # Berry Free React Material Admin Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20Berry%20React%20-%20The%20most%20beautiful%20Material%20designed%20Admin%20Dashboard%20Template%20&url=https://berrydashboard.io&via=codedthemes&hashtags=reactjs,webdev,developers,javascript)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
